@@ -1,0 +1,1 @@
+ const delete = "Employee data has been deleted";
